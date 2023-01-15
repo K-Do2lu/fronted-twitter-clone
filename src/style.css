@@ -2,6 +2,9 @@
 @tailwind components;
 @tailwind utilities;
 
+button {
+  @apply focus:outline-none;
+}
 /* 
 :root {
   font-family: Inter, Avenir, Helvetica, Arial, sans-serif;
