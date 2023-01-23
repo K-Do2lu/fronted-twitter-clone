@@ -39,17 +39,15 @@
         </div>
         <div class="border-b border-gray-100 hover:bg-gray-100 px-4 py-2 cursor-pointer"
         v-for="trend in 3" :key="trend">
-            <div class="flex">
-            <div>
+            <div class="flex items-center">
                 <img src="http://picsum.photos/59" 
                 class="w-12 h-12 rounded-full mr-2"/>
-            </div>
             <div class="flex-1 flex flex-col">
-                <div class="font-bold text-lg"> 롯데정보통신</div>
+                <div class="font-bold text-sm"> 롯데정보통신</div>
                 <div class="text-gray-500"> @ldcc</div>
             </div>
             <div>
-                <button class="border-2 border-primary hover:bg-blue-100 px-4 py-1 rounded-full text-primary">
+                <button class="border-2 border-primary hover:bg-blue-100 px-2 py-1 rounded-full text-primary text-sm">
                 팔로우
                 </button>
             </div>
