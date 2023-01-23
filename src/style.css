@@ -96,3 +96,11 @@ button:focus-visible {
     background-color: #f9f9f9;
   }
 } */
+
+.border-color {
+  @apply border-gray-100;
+}
+
+.text-gray {
+  @apply text-gray-500;
+}
