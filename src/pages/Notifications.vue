@@ -9,9 +9,9 @@
                 <img src="https://picsum.photos/100" class="w-10 h-10 rounded-full hover:opacity-80"/>
                 <i class="fas fa-ellipsis-h text-gray-500 hover:bg-blue-50 hover:text-primary p-2 rounded-full w-10 h-10 flex items-center justify-center"></i>
             </div>
-            <div><span class="font-bold">박준영 님의 트윗</span></div>
+            <div><span class="font-bold">세미제로 님의 트윗</span></div>
             <div class="text-gray-500">
-                안녕하세요 박준영입니다.
+                안녕하세요 세미제로입니다.
             </div>
         </div>
     </div>

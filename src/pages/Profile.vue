@@ -8,7 +8,7 @@
                     <i class="fas fa-arrow-left text-primary p-3 rounded-full hover:bg-blue-50"></i>
                 </button>
                 <div>
-                    <div class="font-extrabold text-lg">jinsyu.com</div>
+                    <div class="font-extrabold text-lg">semizero.com</div>
                     <div class="text-xs text-gray">393 tweet</div>
                 </div>
             </div>
@@ -25,8 +25,8 @@
             </div>
             <!--user info-->
             <div class="mx-3 mt-2">
-                <div class="font-extrabold text-lg">jinsyu.com</div>
-                <div class="text-gray">jinsyu.com</div>
+                <div class="font-extrabold text-lg">semizero.com</div>
+                <div class="text-gray">semizero.com</div>
                 <div>
                     <span class="text-gray">가입일:</span>
                     <span class="text-gray">2011년 10월</span>

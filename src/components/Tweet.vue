@@ -7,7 +7,7 @@
         <div class="ml-3 flex-1 flex flex-col space-y-1">
         <div class="text-sm space-x-1">
             <span class="font-bold">semi.zero</span>
-            <span class="text-gray-500 text-xs">@patriamea</span>
+            <span class="text-gray-500 text-xs">@semizero</span>
             <span>a</span>
             <span class="text-gray-500 text-xs">7분</span>
         </div>

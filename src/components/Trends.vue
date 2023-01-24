@@ -21,7 +21,7 @@
             <div class="flex">
             <div class="flex-1 flex flex-col">
                 <div class="text-gray-500"> 대한민국에 트렌드 중</div>
-                <div class="font-bold text-lg"> 러블리즈</div>
+                <div class="font-bold text-lg"> 에이핑크</div>
                 <div class="text-gray-500"> 3,564 트윗</div>
             </div>
             <i class="fas fa-ellipsis-h text-gray-500"></i>
@@ -43,7 +43,7 @@
                 <img src="http://picsum.photos/59" 
                 class="w-12 h-12 rounded-full mr-2"/>
             <div class="flex-1 flex flex-col">
-                <div class="font-bold text-sm"> 롯데정보통신</div>
+                <div class="font-bold text-sm"> lotte</div>
                 <div class="text-gray-500"> @ldcc</div>
             </div>
             <div>
