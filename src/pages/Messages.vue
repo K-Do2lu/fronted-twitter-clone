@@ -36,8 +36,8 @@
                 <!--user info-->
                 <div class="flex flex-col justify-center items-center border-b border-gray-100 hover:bg-gray-50 py-6">
                     <div>
-                        <span class="font-bold mr-1">jinsyu.com</span>
-                        <span class="text-gray-500">@jinsyu</span>
+                        <span class="font-bold mr-1">semizero.com</span>
+                        <span class="text-gray-500">@semizero</span>
                     </div>
                     <div>
                         <span class="font-bold mr-1">28</span> 
@@ -47,7 +47,7 @@
                     </div>
                     <div>
                         <span class="text-gray-500 mr-1">가입일</span>
-                        <span class="text-gray-500">2011년 10월</span>
+                        <span class="text-gray-500">2022년 10월</span>
                     </div>
                 </div>
                 <!--chat-->
